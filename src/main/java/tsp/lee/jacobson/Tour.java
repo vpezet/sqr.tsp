@@ -1,5 +1,9 @@
 package tsp.lee.jacobson;
 
+/** Class that represents the list of cities to visit
+ *  @author Vincent Pezet
+ */
+
 import java.util.ArrayList;
 import java.util.Collections;
 

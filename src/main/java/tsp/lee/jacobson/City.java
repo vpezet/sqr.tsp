@@ -1,5 +1,9 @@
 package tsp.lee.jacobson;
 
+/** Class that represents a city
+ *  @author Vincent Pezet
+ */
+
 public class City {
     int x;
     int y;
