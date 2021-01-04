@@ -29,31 +29,31 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| distanceToCity |  |  | 
-| getX |  |  | 
-| getY |  |  | 
-| toString |  |  | 
+| distanceToCity | A | Simple calcul de distance entre 2 points | 
+| getX | D | Simple Getter | 
+| getY | D | Simple Getter | 
+| toString | A | Simple toString | 
 
 ### Class Tour
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| containsCity  |  |  |
-| getCity  |  |  |
-| getDistance  |  |  |
-| getFitness  |  |  |
-| setCity  |  |  |
-| tourSize  |  |  |
-| toString  |  |  |
+| containsCity  | A | Simple vérification de présence dans une liste |
+| getCity  | A | Simple récupération de valeur dans une liste |
+| getDistance  | T |  |
+| getFitness  | D | Calcul simple avec appel de la fonction getDistance |
+| setCity  | A | Simple set de valeur dans une liste |
+| tourSize  | D | Simple récupération de taille de liste |
+| toString  | A | Simple toString |
 
 ### Class Population
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| getFittest  |  |  |
-| getTour  |  |  |
-| populationSize  |  |  |
-| saveTour  |  |  |
+| getFittest  | T |  |
+| getTour  | A | Simple set de valeur dans un tableau |
+| populationSize  | D | Simple récupération de taille de tableau |
+| saveTour  | A | Simple set de valeur dans un tableau |
 
 ## Functions to test now
 
